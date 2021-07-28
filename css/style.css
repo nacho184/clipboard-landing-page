@@ -82,6 +82,7 @@ h3 {
 .computer1 {
   position: relative;
   margin-left: -30px;
+  magin-top: 100px;
   float: left;
   width: 50%;
 }
